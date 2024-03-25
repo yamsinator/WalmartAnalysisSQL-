@@ -146,6 +146,6 @@ FROM sales
 GROUP BY gender, product_line
 ORDER BY qty DESC;
 
-SELECT * FROM sales;
+
 
 
